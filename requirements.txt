@@ -1,4 +1,0 @@
-ultralytics
-roboflow
-opencv-python
-matplotlib
